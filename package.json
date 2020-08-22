@@ -32,9 +32,9 @@
     "test": "test"
   },
   "dependencies": {
-    "any-db": "^2.1.0",
+    "any-db": "git:github.com:branemk/node-any-db.git",
     "any-db-mysql": "^2.1.2",
-    "any-db-postgres": "^2.1.3",
+    "any-db-postgres": "git:github.com:branemk/any-db-postgres-es6-fix.git",
     "any-db-transaction": "^2.2.1",
     "bluebird": "^2.3.6",
     "node-sql-2": "^0.78.0",
